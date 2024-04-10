@@ -36,6 +36,16 @@ const typed = new Typed('.multiple-text', {
     loop: true
 })
 
+const typed1 = new Typed('.about-text', {
+    strings: ['About Me'],
+    typeSpeed: 200,
+    backSpeed: 200,
+    backDelay: 500,
+    loop: true
+})
+
+
+
 
 
 
